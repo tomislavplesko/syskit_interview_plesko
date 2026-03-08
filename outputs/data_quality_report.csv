@@ -1,0 +1,4 @@
+table,column,issue,affected_rows,action
+subscriptions,churn_date,null values,425,retained -- handled downstream
+events,properties,null values,33151,retained -- handled downstream
+crm_activities,days_to_renewal,negative values (activity after renewal date),751,retained -- expected per data spec

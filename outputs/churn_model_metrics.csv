@@ -1,0 +1,2 @@
+model,cv_roc_auc_mean,cv_roc_auc_std,cv_avg_precision_mean,cv_avg_precision_std,decision_threshold,true_positives,false_positives,false_negatives,true_negatives,arr_correctly_flagged,arr_missed
+XGBoost,0.9907450980392157,0.009057380413020883,0.9677142112273691,0.02761165384194336,0.35,75,0,0,425,2509281.41,0.0
