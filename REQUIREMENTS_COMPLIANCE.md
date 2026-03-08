@@ -93,7 +93,7 @@
 | Architecture decisions, pipeline description, tools | ✅ `architecture.md` |
 | Pipeline / ETL code | ✅ `pipeline/00_*.py`, `01_*.py`, `02_*.py` |
 | ML model code, training script, evaluation output | ✅ `ml/churn_model.py`, `outputs/churn_model_metrics.csv`, `feature_importance.csv` |
-| Link to published dashboard | ⏳ Add URL after deployment |
+| Link to published dashboard | ✅ https://syskitinterviewplesko.streamlit.app/ |
 | Short summary for leadership | ✅ `executive_summary.md` |
 | Data (if generated) | ✅ `pipeline/00_build_sqlite_from_csv.py` builds SQLite from CSV |
 
@@ -110,10 +110,4 @@
 
 ---
 
-## 6. What to Add Before Submission
-
-1. **Dashboard URL** — After deploying to Streamlit Community Cloud, add the link to `README.md` and your submission.
-2. **GitHub repo** — Structure as requested (architecture, pipeline, ML, dashboard link, summary).
-
----
 
