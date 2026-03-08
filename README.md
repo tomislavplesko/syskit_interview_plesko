@@ -56,7 +56,7 @@ See `README_dataset.md` for full schema and hints.
 
 **Local:** `streamlit run dashboard/app.py`
 
-**Deployed URL:** *(Add your Streamlit Community Cloud or deployment URL here after publishing)*
+**Deployed URL:** *[(Deployment URL)](https://syskitinterviewplesko.streamlit.app/)*
 
 ---
 
@@ -83,3 +83,4 @@ See `sql/README.md` for details.
 | **Analytical Deliverables** | Health score, at-risk cohort, usage trends (12w), channel performance |
 | **ML & Prediction** | Churn model, Precision/Recall/ROC-AUC, documented limitations |
 | **Communication** | Live dashboard, Executive Summary |
+
